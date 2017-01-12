@@ -1,0 +1,328 @@
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\ApplicationInsights.config
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\MusicHouse.dll.config
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\MusicHouse.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\MusicHouse.pdb
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Antlr3.Runtime.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.Web.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.ApplicationInsights.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Google.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Owin.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Optimization.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.Deployment.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\WebGrease.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.Web.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.ApplicationInsights.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Optimization.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.Deployment.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Antlr3.Runtime.pdb
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Google.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\obj\Debug\MusicHouse.dll
+c:\users\user\documents\visual studio 2015\Projects\MusicHouse\MusicHouse\obj\Debug\MusicHouse.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\MusicHouse\MusicHouse\obj\Debug\MusicHouse.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\ApplicationInsights.config
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\MusicHouse.dll.config
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\MusicHouse.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\MusicHouse.pdb
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\EntityFramework.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Owin.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\WebGrease.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\EntityFramework.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\obj\Debug\MusicHouse.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\obj\Debug\MusicHouse.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\obj\Debug\MusicHouse.pdb
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\ApplicationInsights.config
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\csc.exe
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\System.Collections.Immutable.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\System.Reflection.Metadata.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\vbc.exe
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\VBCSCompiler.exe
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\VBCSCompiler.exe.config
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\MusicHouse.dll.config
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\MusicHouse.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\MusicHouse.pdb
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Antlr3.Runtime.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\EntityFramework.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\EntityFramework.SqlServer.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.DependencyCollector.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.Web.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.WindowsServer.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.ApplicationInsights.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Google.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Web.Infrastructure.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Newtonsoft.Json.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Owin.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Helpers.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Mvc.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Optimization.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Razor.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.Deployment.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.Razor.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\WebGrease.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.DependencyCollector.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.Web.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.WindowsServer.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.ApplicationInsights.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Helpers.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Mvc.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Optimization.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Razor.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.Deployment.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.Razor.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Antlr3.Runtime.pdb
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Newtonsoft.Json.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\EntityFramework.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\EntityFramework.SqlServer.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Google.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\obj\Debug\MusicHouse.csprojResolveAssemblyReference.cache
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\obj\Debug\MusicHouse.dll
+E:\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\obj\Debug\MusicHouse.pdb
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\ApplicationInsights.config
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\csc.exe
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\vbc.exe
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\VBCSCompiler.exe
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\MusicHouse.dll.config
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\MusicHouse.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\MusicHouse.pdb
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Antlr3.Runtime.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\EntityFramework.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\EntityFramework.SqlServer.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.Web.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.ApplicationInsights.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Newtonsoft.Json.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Owin.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Helpers.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Mvc.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Optimization.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Razor.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.Deployment.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.Razor.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\WebGrease.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.Web.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.ApplicationInsights.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Helpers.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Mvc.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Optimization.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.Razor.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.Deployment.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\System.Web.WebPages.Razor.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Antlr3.Runtime.pdb
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Newtonsoft.Json.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\EntityFramework.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\EntityFramework.SqlServer.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\obj\Debug\MusicHouse.csprojResolveAssemblyReference.cache
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\obj\Debug\MusicHouse.dll
+C:\Users\OLAKUNLE OKUNOLA\Documents\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\MusicHouse\MusicHouse\obj\Debug\MusicHouse.pdb
