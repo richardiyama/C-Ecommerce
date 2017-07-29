@@ -2,6 +2,7 @@
 
 namespace MusicHouse.Models
 {
+    
     public class MusicStoreEntities : DbContext
     {
         public DbSet<Album>     Albums { get; set; }
@@ -10,5 +11,6 @@ namespace MusicHouse.Models
         public DbSet<Cart>      Carts { get; set; }
         public DbSet<Order>     Orders { get; set; }
         public DbSet<OrderDetail> OrderDetails { get; set; }
+    
     }
 }
