@@ -18,6 +18,7 @@ namespace MusicHouse.Models
         }
     }
 
+    
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
@@ -25,6 +26,7 @@ namespace MusicHouse.Models
         {
         }
 
+        
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();
