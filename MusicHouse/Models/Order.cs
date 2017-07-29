@@ -22,11 +22,13 @@ namespace MusicHouse.Models
         [StringLength(160)]
         public string FirstName { get; set; }
 
+       
         [Required]
         [DisplayName("Last Name")]
         [StringLength(160)]
         public string LastName { get; set; }
 
+       
         [Required]
         [StringLength(70, MinimumLength = 3)]
         public string Address { get; set; }
