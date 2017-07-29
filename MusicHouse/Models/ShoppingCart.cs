@@ -25,6 +25,7 @@ namespace MusicHouse.Models
             return cart;
         }
 
+      
         // Helper method to simplify shopping cart calls
         public static ShoppingCart GetCart(MusicStoreEntities db, Controller controller)
         {
